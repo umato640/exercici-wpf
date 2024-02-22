@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mCJUyWUYNR0hFmU9ckcBER7RE9aRE7zFA/zR0rfdtJfiB05mhBxL3DQMumbnn0gO8knZzDCHmr1I1VUaYivW5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\unaim\\Documents\\2DAM\\examen\\Semaphore\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\unaim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\unaim\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\unaim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\unaim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
